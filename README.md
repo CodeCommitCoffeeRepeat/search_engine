@@ -122,7 +122,7 @@ plot_class_clusters(
 
 ````
 
-~[Clusters](https://raw.githubusercontent.com/CodeCommitCoffeeRepeat/search_engine/refs/heads/main/imgs/clusters.png)
+![Clusters](https://raw.githubusercontent.com/CodeCommitCoffeeRepeat/search_engine/refs/heads/main/imgs/clusters.png)
 
 <br/>
 
