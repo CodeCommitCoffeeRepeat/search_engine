@@ -122,7 +122,7 @@ plot_class_clusters(
 
 ````
 
-Due to private repository, the return figure is hosted here `./imgs/clusters.png`
+~[Clusters](https://raw.githubusercontent.com/CodeCommitCoffeeRepeat/search_engine/refs/heads/main/imgs/clusters.png)
 
 <br/>
 
