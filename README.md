@@ -16,7 +16,7 @@ The project is in its **Alpha** stage, so installation is only possible directly
 
 1. Clone the repo:
 
-`git clone https://github.com/sarannns/search_engine`
+`git clone https://github.com/CodeCommitCoffeeRepeat/search_engine`
 
 2. Navigate to the project directory
 
@@ -129,7 +129,7 @@ plot_class_clusters(
 Other available statistical/visualization methods are,
     `plot_context_class_scores`,
     `plot_methods` &
-    `plot_class_scores`. Please refer to the [Example Notebook](https://github.com/sarannns/search_engine/blob/main/example.ipynb) for more detailed usage. 
+    `plot_class_scores`. Please refer to the [Example Notebook](https://github.com/CodeCommitCoffeeRepeat/search_engine/blob/main/example.ipynb) for more detailed usage. 
 
 # Contribution Guidelines
 To contribute, fork the repository, create a branch for your changes. Ensure your code follows `black` style formatting and includes **tests**. Commit your changes, push your branch, and create a pull request to the main branch. 
